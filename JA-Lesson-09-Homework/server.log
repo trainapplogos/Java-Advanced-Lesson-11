@@ -1,0 +1,3 @@
+2021-07-12 23:43:06 ERROR UserAccountDaoImpl:153 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-07-13 03:56:57 ERROR UserAccountDaoImpl:153 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-07-14 02:25:21 ERROR ProductDaoImpl:67 - java.sql.SQLException: Illegal operation on empty result set.
